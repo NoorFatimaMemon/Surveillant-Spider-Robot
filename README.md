@@ -11,3 +11,7 @@ The robot leverages **spider-like locomotion** for enhanced mobility on irregula
 - **Obstacle Avoidance:** Terrain-adaptive sensors enable autonomous navigation and hazard detection.  
 - **Modular and Scalable:** Designed with 3D-printed components for easy modification and enhancements.  
 - **Arduino-Based Control:** Efficient and cost-effective microcontroller implementation.
+
+![Capture2](https://github.com/user-attachments/assets/e8d14156-583a-4183-aacc-f7a3cb58be85)
+
+![Capture](https://github.com/user-attachments/assets/48895596-08b8-4101-9363-0bc04f7168bc)
