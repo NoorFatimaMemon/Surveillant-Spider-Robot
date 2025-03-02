@@ -15,3 +15,6 @@ The robot leverages **spider-like locomotion** for enhanced mobility on irregula
 ![Capture2](https://github.com/user-attachments/assets/e8d14156-583a-4183-aacc-f7a3cb58be85)
 
 ![Capture](https://github.com/user-attachments/assets/48895596-08b8-4101-9363-0bc04f7168bc)
+
+![flow](https://github.com/user-attachments/assets/08388b73-7254-4a22-9554-fd56ad797e74)
+
